@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A6BEDB-21C4-4CCD-8138-5EDFF723FA15}|project-backend\\project-backend.csproj|C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\data\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A6BEDB-21C4-4CCD-8138-5EDFF723FA15}|project-backend\\project-backend.csproj|solutionrelative:project-backend\\data\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A6BEDB-21C4-4CCD-8138-5EDFF723FA15}|project-backend\\project-backend.csproj|C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\data\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A6BEDB-21C4-4CCD-8138-5EDFF723FA15}|project-backend\\project-backend.csproj|solutionrelative:project-backend\\data\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A6BEDB-21C4-4CCD-8138-5EDFF723FA15}|project-backend\\project-backend.csproj|c:\\users\\nam\\desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\project-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1A6BEDB-21C4-4CCD-8138-5EDFF723FA15}|project-backend\\project-backend.csproj|solutionrelative:project-backend\\project-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A6BEDB-21C4-4CCD-8138-5EDFF723FA15}|project-backend\\project-backend.csproj|c:\\users\\nam\\desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A6BEDB-21C4-4CCD-8138-5EDFF723FA15}|project-backend\\project-backend.csproj|solutionrelative:project-backend\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A6BEDB-21C4-4CCD-8138-5EDFF723FA15}|project-backend\\project-backend.csproj|C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A6BEDB-21C4-4CCD-8138-5EDFF723FA15}|project-backend\\project-backend.csproj|solutionrelative:project-backend\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A6BEDB-21C4-4CCD-8138-5EDFF723FA15}|project-backend\\project-backend.csproj|C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\data\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A6BEDB-21C4-4CCD-8138-5EDFF723FA15}|project-backend\\project-backend.csproj|solutionrelative:project-backend\\data\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A6BEDB-21C4-4CCD-8138-5EDFF723FA15}|project-backend\\project-backend.csproj|C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A6BEDB-21C4-4CCD-8138-5EDFF723FA15}|project-backend\\project-backend.csproj|solutionrelative:project-backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A6BEDB-21C4-4CCD-8138-5EDFF723FA15}|project-backend\\project-backend.csproj|C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A6BEDB-21C4-4CCD-8138-5EDFF723FA15}|project-backend\\project-backend.csproj|solutionrelative:project-backend\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A6BEDB-21C4-4CCD-8138-5EDFF723FA15}|project-backend\\project-backend.csproj|C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A6BEDB-21C4-4CCD-8138-5EDFF723FA15}|project-backend\\project-backend.csproj|solutionrelative:project-backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A6BEDB-21C4-4CCD-8138-5EDFF723FA15}|project-backend\\project-backend.csproj|C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A6BEDB-21C4-4CCD-8138-5EDFF723FA15}|project-backend\\project-backend.csproj|solutionrelative:project-backend\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A6BEDB-21C4-4CCD-8138-5EDFF723FA15}|project-backend\\project-backend.csproj|C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A6BEDB-21C4-4CCD-8138-5EDFF723FA15}|project-backend\\project-backend.csproj|solutionrelative:project-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "project-backend",
+              "DocumentMoniker": "C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\project-backend.csproj",
+              "RelativeDocumentMoniker": "project-backend\\project-backend.csproj",
+              "ToolTip": "C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\project-backend.csproj",
+              "RelativeToolTip": "project-backend\\project-backend.csproj",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T03:19:09.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "project-backend\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "project-backend\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T16:23:16.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\Data\\OrderContext.cs",
+              "RelativeDocumentMoniker": "project-backend\\Data\\OrderContext.cs",
+              "ToolTip": "C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\Data\\OrderContext.cs",
+              "RelativeToolTip": "project-backend\\Data\\OrderContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T21:47:51.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "project-backend\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\Models\\Book.cs",
+              "RelativeToolTip": "project-backend\\Models\\Book.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T06:51:00.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "project-backend\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "project-backend\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAGEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T13:41:04.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\Data\\BookContext.cs",
+              "RelativeDocumentMoniker": "project-backend\\Data\\BookContext.cs",
+              "ToolTip": "C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\Data\\BookContext.cs",
+              "RelativeToolTip": "project-backend\\Data\\BookContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T06:51:00.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\Data\\UserContext.cs",
+              "RelativeDocumentMoniker": "project-backend\\Data\\UserContext.cs",
+              "ToolTip": "C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\Data\\UserContext.cs",
+              "RelativeToolTip": "project-backend\\Data\\UserContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T06:51:00.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "project-backend\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\Models\\User.cs",
+              "RelativeToolTip": "project-backend\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T06:51:00.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "project-backend\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\Models\\Order.cs",
+              "RelativeToolTip": "project-backend\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T21:46:58.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "project-backend\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "project-backend\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T21:10:59.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\Program.cs",
+              "RelativeDocumentMoniker": "project-backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Nam\\Desktop\\bookstore project\\project-backend\\project-backend\\project-backend\\Program.cs",
+              "RelativeToolTip": "project-backend\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T06:51:00.567Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

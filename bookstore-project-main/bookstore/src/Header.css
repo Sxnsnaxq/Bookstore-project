@@ -1,0 +1,26 @@
+header {
+  background: linear-gradient(
+    to right,
+    rgba(41, 42, 43, 0.3),
+    rgba(41, 42, 43, 0.3)
+  );
+  padding: 20px;
+  color: white;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.container {
+  display: flex;
+  gap: 50px;
+}
+.container {
+  display: flex;
+  justify-content: center; /* Horizontally center align the items */
+  align-items: center; /* Vertically center align the items */
+}
+
+.container div {
+  margin: 0 10px; /* Add some spacing between the links */
+}
